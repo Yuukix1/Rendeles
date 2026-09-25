@@ -1,0 +1,21 @@
+H;1;Pizza,Kóla;2500;12
+H;2;Leves;1200;8
+E;3;Hamburger,Sültkrumpli;3200;Budapest, Fő utca 5.;Kovács Béla
+H;4;Rántott hús,Krumplipüré;3500;4
+E;5;Gyros,Tésztasaláta;2800;Debrecen, Kossuth tér 3.;Nagy Anna
+H;6;Cordon Bleu,Saláta;3700;15
+H;7;Hamburger,Kóla;2700;2
+E;8;Pizza,Sültkrumpli;4000;Szeged, Rózsa utca 10.;Szabó László
+H;9;Gyros,Kóla;2600;6
+E;10;Leves,Pizza;3100;Győr, Baross út 22.;Kiss Petra
+
+E;11;Rántott sajt,Krumpli;2900;Miskolc, Petőfi tér 7.; Kovács Béla
+H;12;Halászlé;3000;20
+H;13;Palacsinta,Kávé;1800;11
+E;14;Pizza,Cola,Fagyi;4200;Pécs, Király utca 18.; Nagy Anna
+H;15;Marhapörkölt,Nokedli;3900;9
+E;16;Hamburger,Hotdog;3300;Szolnok, Ady Endre út 4.; Kovács Béla
+H;17;Spagetti,Bor;4200;5
+E;18;Gyros,Taco;3500;Veszprém, Kossuth utca 12.; Nagy Anna
+H;19;Lecsó,Kenyér;2500;7
+E;20;Sült csirke,Rizs;3600;Székesfehérvár, Budai út 30.;Kelemen Júlia

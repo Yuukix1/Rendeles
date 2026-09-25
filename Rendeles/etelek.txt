@@ -1,0 +1,39 @@
+Pizza,2800
+Kóla,600
+Leves,1200
+Hamburger,2500
+Sültkrumpli,1000
+Rántott hús,3000
+Krumplipüré,900
+Gyros,2600
+Tésztasaláta,1400
+Cordon Bleu,3200
+Saláta,1000
+Hamburger,2500
+Kóla,600
+Pizza,2800
+Sültkrumpli,1000
+Gyros,2600
+Kóla,600
+Leves,1200
+Pizza,2800
+Rántott sajt,2200
+Krumpli,900
+Halászlé,3500
+Palacsinta,1500
+Kávé,800
+Pizza,2800
+Cola,600
+Fagyi,1000
+Marhapörkölt,3800
+Nokedli,900
+Hamburger,2500
+Hotdog,1800
+Spagetti,3200
+Bor,1200
+Gyros,2600
+Taco,2200
+Lecsó,2000
+Kenyér,500
+Sült csirke,3400
+Rizs,900
